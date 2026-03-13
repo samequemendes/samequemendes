@@ -60,7 +60,7 @@ Plataforma completa para atletas e eventos de luta:
 - Provisionamento 100% em Terraform com padrões multi-ambiente
 - Pipelines CI/CD no Azure DevOps com versionamento GitFlow
 
-#### 🥋 Knockout para Vida  
+#### 🥊 Do Ringue para a Nuvem – Um Knockout na Carreira em TI  
 Projeto social de boxe para transformação de jovens de comunidades.
 
 ---
