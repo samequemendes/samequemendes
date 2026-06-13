@@ -1,89 +1,59 @@
-<h1 align="center">👊🏽 Sâmeque Mendes | Cloud & DevOps Engineer</h1>
-<h3 align="center">🥊 Campeão no ringue e na vida! Arquiteto na nuvem. Criador do Its On Fight.</h3>
+<h1 align="center">👊🏽 Sâmeque Mendes</h1>
+
+<h3 align="center">
+Platform Engineer in progress | AWS & DevOps | Tech Builder | Boxing mindset
+</h3>
+
+<p align="center">
+  <a href="README.pt-BR.md">🇧🇷 Português</a> •
+  <a href="README.en.md">🇺🇸 English</a> •
+  <a href="README.es.md">🇪🇸 Español</a>
+</p>
 
 ---
 
-### 🧠 Sobre mim
+## 🥊 From the ring to the cloud
 
-Sou movido por propósito, disciplina e inovação. Já enfrentei rounds na vida, no código e no ringue — e sigo construindo soluções sólidas com a mesma garra com que entrei no boxe.
+I am a Cloud & DevOps professional evolving into Platform Engineering, with strong focus on AWS, Terraform, CI/CD, automation and cloud-native architecture.
 
-💻 Engenheiro de DevOps & Cloud apaixonado por automação  
-☁️ Especialista em AWS, Terraform, CI/CD e segurança  
-🔥 Empreendedor tech com projetos em produção e impacto social  
-💡 Curioso e autodidata, sempre buscando o próximo salto na carreira
+My journey connects technology, boxing, discipline and purpose. I believe that high performance is built through consistency, clarity and execution — whether inside the ring, in a cloud architecture, or in a long-term career plan.
 
----
-
-### 🛠️ Tech Stack & Ferramentas
-
-#### ☁️ Cloud & Containers
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-#### 🔧 IaC, CI/CD & Infra
-
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-%23D93F00.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitFlow](https://img.shields.io/badge/GitFlow-%23E94E77.svg?style=for-the-badge)
-
-#### 🔐 Segurança & Observabilidade
-
-![AWS WAF](https://img.shields.io/badge/WAF-%23F58536.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-%233498DB.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/Dynatrace-%230066CC.svg?style=for-the-badge&logo=dynatrace&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-%23C21325.svg?style=for-the-badge&logo=zabbix&logoColor=white)
-
-#### 🧠 Skills Adicionais
-
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge)
+Today, I work at Santander Bank and continue building my own technical and entrepreneurial projects around combat sports, cloud platforms, developer experience and social impact.
 
 ---
 
-### 🧩 Projetos em Destaque
+## 🚀 What I am building
 
-#### 🔥 [Its On Fight](https://itsonfight.club)  
-Plataforma completa para atletas e eventos de luta:
-- Frontend em React + hospedado via S3 + CloudFront
-- Backend com Lambda, API Gateway, Cognito, DynamoDB
-- Provisionamento 100% em Terraform com padrões multi-ambiente
-- Pipelines CI/CD no Azure DevOps com versionamento GitFlow
-
-#### 🥊 Do Ringue para a Nuvem – Um Knockout na Carreira em TI  
-Projeto social de boxe para transformação de jovens de comunidades.
+- **It’s On Fight** — digital platform for combat sports, athletes, fights, videos and rankings.
+- **Sparring Day** — project focused on sparring records, athlete evolution, AI analysis and rankings.
+- **Knockout para Vida** — social project using boxing as a tool for discipline, opportunity and transformation.
+- **Sem Massagem Promotions** — boxing team and promotion project focused on athletes, events and career growth.
+- **samequemendes.cloud** — my personal website, portfolio and technical content hub.
+- **Platform Engineering Labs** — studies and labs with Backstage, Terraform, AWS, Azure DevOps, GitOps and automation.
 
 ---
 
-### 🎯 Certificações e Conquistas
+## 🧭 Detailed profile
 
-- ✅ AWS Certified Cloud Practitioner
-- 🥇 Campeão Mineiro de Boxe Olímpico – 2018
-- 📣 TED Talk em construção sobre disciplina e tecnologia
+Choose the language:
+
+- 🇧🇷 [Versão completa em Português](README.pt-BR.md)
+- 🇺🇸 [Full English version](README.en.md)
+- 🇪🇸 [Versión completa en Español](README.es.md)
 
 ---
 
-### 📬 Fala comigo!
+## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/samequemendes)
-- [Instagram](https://instagram.com/itsonfight.club)
-- [YouTube – It's On Fight](https://www.youtube.com/@itsonfight)
-- 📫 Email: mandeviaDM ou me chama no LinkedIn 😄
+- [Personal website](https://samequemendes.cloud)
+- [It’s On Fight](https://itsonfight.club)
+- [Sparring Day](https://sparringday.club)
+- [Instagram pessoal](https://instagram.com/samequemendes)
+- [Instagram It’s On Fight](https://instagram.com/itsonfight.club)
 
 ---
 
-> *"Você faz na vida o que faz no treino. Treino sério e viva com intensidade!"*  
-> — Sâmeque Mendes
-
----
-
+> “Você faz na vida o que faz no treino.”
+>
+> **“Quem acorda determinado, dorme satisfeito.”**
